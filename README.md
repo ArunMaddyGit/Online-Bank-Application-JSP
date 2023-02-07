@@ -6,7 +6,7 @@ JSP based Online Banking Application
   It has 2 module, admin and user.
   
   USER:
-  1.Register
+  1.Register<br>
   2.Login
   3.Deposit
   4.Withdraw
