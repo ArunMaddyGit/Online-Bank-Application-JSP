@@ -69,7 +69,7 @@
                     <!-- ***** Logo Start ***** -->
                     <a href="index.html" class="logo">
                         
-                        <!-- <img style="float:left;" src="bank3.png" height="40px" alt="SnapX Photography Template"> -->
+                        <!-- <img style="float:left;" src="bank3.png" height="40px" alt=""> -->
                         <span id="title">SIMPLE BANK</span>
                     </a>
                     
@@ -140,8 +140,8 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <p>Copyright © 2023 <a href="#">SIMPLE BANK</a> Co., Ltd. All rights reserved. Author : <a href="https://github.com/ArunMaddyGit">Arun Kumar.</a>
-          Template Design: <a title="CSS Templates" rel="sponsored" href="https://templatemo.com/page/1" target="_blank">TemplateMo</a></p>
+          <p>Copyright © 2023 <a href="#">SIMPLE BANK</a> Co., Ltd. All rights reserved. Author : <a href="https://github.com/ArunMaddyGit">Arun Kumar</a>
+         
         </div>
       </div>
     </div>
