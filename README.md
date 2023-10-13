@@ -1,9 +1,9 @@
 # Online-Bank-Application-JSP
-JSP based Online Banking Application<br>
+##JSP based Online Banking Application<br>
 
   Online Banking Application is simple banking application developed using JSP, Java Servlet, HTML, CSS, Bootstrap, JavaScript and JQuery.<br>
   
-  It has 2 module, admin and user.<br>
+  It has 2 module, ##admin## and ##user.##<br>
   
   USER:<br>
   1.Register<br>
